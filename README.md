@@ -1,6 +1,6 @@
 # Hi, I'm Austin! 👋
 
-A Computer Scientist/Software Developer with a passion for systems programming, Linux, and developer tooling. Always curious and driven to solve complex problems.
+A Software Engineer with a passion for systems programming, Linux, and developer tooling. Always curious and driven to solve complex problems.
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.austingause.com)
@@ -15,6 +15,7 @@ A Computer Scientist/Software Developer with a passion for systems programming, 
 ## 🧑‍💻 I'm currently working on...
 - My Arch Linux [dotfiles](https://github.com/Pairadux/dotfiles)
 - A Tmux Session Manager CLI tool called [Muxly](https://github.com/Pairadux/muxly)
+- Full stack web development
 
 ## 🧠 I'm currently learning...
 - Springboot, Angular, Typescript
